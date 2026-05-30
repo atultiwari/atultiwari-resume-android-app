@@ -1,0 +1,6 @@
+{
+  "name": "Atul Tiwari Portfolio",
+  "description": "The professional portfolio of Dr. Atul Tiwari, MD - Medical Professional & AI Researcher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
